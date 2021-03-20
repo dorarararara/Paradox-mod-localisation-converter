@@ -78,6 +78,8 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
+- [Video](https://www.youtube.com/watch?v=Mw-zEd6xWF8)
+
 1. Copy paste `script.ps1` to your english localisation folder.
 2. Right click on the file > `execute with powershell` 
     - OR open terminal, go to the folder and enter `.\script.ps1`
