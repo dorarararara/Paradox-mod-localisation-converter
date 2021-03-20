@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Khoeos/repo_name">
+  <a href="https://github.com/Khoeos/Paradox-mod-localisation-converter">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
@@ -18,12 +18,12 @@
   <p align="center">
     A simple powershell script to generate localisation for your language, based on english version for Paradox's Games
     <br />
-    <a href="https://github.com/Khoeos/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Khoeos/Paradox-mod-localisation-converter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Khoeos/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Khoeos/Paradox-mod-localisation-converter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Khoeos/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Khoeos/Paradox-mod-localisation-converter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -111,7 +111,7 @@ This is an example of how to list things you need to use the software and how to
 - Automatic language folder and files creation (without copy/paste)
 - Geration directly from stellaris's mod folder
 
-See the [open issues](https://github.com/Khoeos/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Khoeos/Paradox-mod-localisation-converter/issues) for a list of proposed features (and known issues).
 
 
 
@@ -140,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Discord : Khoéos#9117
 
-Project Link: [https://github.com/Khoeos/repo_name](https://github.com/Khoeos/repo_name)
+Project Link: [https://github.com/Khoeos/Paradox-mod-localisation-converter](https://github.com/Khoeos/Paradox-mod-localisation-converter)
 
 
 
