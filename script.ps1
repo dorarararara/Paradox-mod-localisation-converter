@@ -1,6 +1,6 @@
-echo '# LANGUAGE TO CONVERT TO'
-echo 'Available : french, english, german, polish, russian, spanish, simp_chinese, braz_por'
-echo 'Help on https://github.com/khoeos'
+Write-Output '# LANGUAGE TO CONVERT TO'
+Write-Output 'Available : french, english, german, polish, russian, spanish, simp_chinese, braz_por'
+Write-Output 'Help on https://github.com/khoeos'
 $language = Read-Host -Prompt 'Language '
 $language = 'l_' + $language
 
