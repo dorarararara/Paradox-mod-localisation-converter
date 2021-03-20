@@ -52,6 +52,8 @@
 This script will create language files for custom language, based on english localisation for avoid unreadable descriptions and texts if you're not playing in english 
 (Also convertable from other languages to english, all is commented)
 
+PS : First time ever i made powershell script, so i'm open for help to optimize or made things simplier
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
