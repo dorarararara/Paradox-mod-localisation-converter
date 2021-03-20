@@ -78,6 +78,8 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
+- [Video](https://www.youtube.com/watch?v=Mw-zEd6xWF8)
+
 1. Copy paste `script.ps1` to your english localisation folder.
 2. Right click on the file > `execute with powershell` 
     - OR open terminal, go to the folder and enter `.\script.ps1`
@@ -92,8 +94,6 @@ This is an example of how to list things you need to use the software and how to
 8. Re-execute for sub folders
 
 **/!\ You have to do the script execution for each sub-folder, and create the same structure for your language for now, i'll try to improve that later***
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mw-zEd6xWF8/0.jpg)](https://www.youtube.com/watch?v=Mw-zEd6xWF8)
 
 
 
