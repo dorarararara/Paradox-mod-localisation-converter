@@ -93,6 +93,8 @@ This is an example of how to list things you need to use the software and how to
 
 **/!\ You have to do the script execution for each sub-folder, and create the same structure for your language for now, i'll try to improve that later***
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mw-zEd6xWF8/0.jpg)](https://www.youtube.com/watch?v=Mw-zEd6xWF8)
+
 
 
 
