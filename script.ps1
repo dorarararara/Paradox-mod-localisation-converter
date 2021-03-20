@@ -25,5 +25,5 @@ Get-ChildItem $dir -Filter *l_english.yml -Recurse |
 
         # Create new files, and force writing if file already exist
         New-Item $path -Force
-        Set-Content $path $content -Encoding unicode
+        Set-Content $path $content -Encoding UTF8
     }
