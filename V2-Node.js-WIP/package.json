@@ -1,0 +1,15 @@
+{
+  "name": "paradox-mod-location-converter",
+  "version": "1.0.0",
+  "description": "Simple app which will create localisation file for your language, based on english files",
+  "main": "script.js",
+  "bin": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khoeos",
+  "license": "MIT",
+  "dependencies": {
+    "directory-tree": "^2.2.7"
+  }
+}

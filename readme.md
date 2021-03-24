@@ -5,10 +5,10 @@
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Paradox mod localisation converter</h3>
+  <h3 align="center">Paradox mod localisation converter V2</h3>
 
   <p align="center">
-    A simple powershell script to generate localisation for your language, based on english version for Paradox's Games
+    A simple script to generate localisation for your language, based on english version for Paradox's Games
     <br />
     <a href="https://github.com/Khoeos/Paradox-mod-localisation-converter"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +52,14 @@
 This script will create language files for custom language, based on english localisation for avoid unreadable descriptions and texts if you're not playing in english 
 (Also convertable from other languages to english, all is commented)
 
-PS : First time ever i made powershell script, so i'm open for help to optimize or made things simplier
+First version was made with Powershell, but i re-created it with Javascript and node.js, easier to maintain and edit. 
+It's actually as Work in progress, no executable, only french (configurable as variable) and only manage files in localisation/english, not in localisation only.
+**Things added :**
+  - Launchable in mod's folder location
+  - Manage all mods in folder and automaticaly create new files and folder
+  - Don't replace existing files
+  - Logs of created files (in mod folder and at the root) 
+`npm install` and `node script.js` to launch it, if you already have node.js installed on your computer (more explanation later)
 
 
 <!-- GETTING STARTED -->
